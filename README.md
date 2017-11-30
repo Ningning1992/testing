@@ -1,3 +1,1 @@
-# testing
-
-[![Build Status](https://travis-ci.org/Ningning1992/testing.svg?branch=master)](https://travis-ci.org/Ningning1992/testing)
+# testing [![Build Status](https://travis-ci.org/Ningning1992/testing.svg?branch=master)](https://travis-ci.org/Ningning1992/testing) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Ningning1992/testing.git/master)
